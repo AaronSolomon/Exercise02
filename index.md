@@ -1,3 +1,24 @@
+# Table
+
+<table><tr><th>Name</th><th>Score</th></tr>
+<tr><td>Alice</td><td>92</td></tr>
+<tr><td>Bob</td><td>66</td></tr>
+  <tr><td colspan=2>Day 2</td></tr>
+  <tr><td>Carol</td><td>93</td></tr>
+  <tr><td>Daniel</td><td>94</td></tr>
+</table>
+
+Item | Price | # In stock
+---|---|---
+Juicy Apples | 1.99 | 739
+Bananas | 1.89 | 6
+
+AAA | BBB | CCC
+--- | :---: | ---:
+1   | 1   | 1
+22 | 22 | 22
+333|333|333
+
 # Alerts
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
